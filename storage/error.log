@@ -1,0 +1,78 @@
+Aug 30 2018 07:16:41
+{"type":2,"message":"file_get_contents(http:\/\/templates.themepunch.tools\/\/revslider\/images\/le-chef-philosophy\/slide1.jpg): failed to open stream: HTTP request failed! HTTP\/1.1 404 Not Found\r\n","file":"\/home\/sprava1co\/domains\/sprava1.com\/public_html\/gala\/wp-content\/plugins\/revslider\/includes\/template.class.php","line":288}
+
+Nov 16 2018 13:56:41
+{"type":8,"message":"Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI'","file":"\/home\/sprava1co\/domains\/sprava1.com\/public_html\/gala\/wp-content\/themes\/hillter\/functions.php","line":73}
+
+Nov 16 2018 13:56:42
+{"type":8,"message":"Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI'","file":"\/home\/sprava1co\/domains\/sprava1.com\/public_html\/gala\/wp-content\/themes\/hillter\/functions.php","line":73}
+
+Nov 16 2018 13:56:44
+{"type":8,"message":"Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI'","file":"\/home\/sprava1co\/domains\/sprava1.com\/public_html\/gala\/wp-content\/themes\/hillter\/functions.php","line":73}
+
+Nov 16 2018 13:56:45
+{"type":8,"message":"Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI'","file":"\/home\/sprava1co\/domains\/sprava1.com\/public_html\/gala\/wp-content\/themes\/hillter\/functions.php","line":73}
+
+Nov 16 2018 13:56:48
+{"type":8,"message":"Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI'","file":"\/home\/sprava1co\/domains\/sprava1.com\/public_html\/gala\/wp-content\/themes\/hillter\/functions.php","line":73}
+
+Nov 16 2018 13:57:00
+{"type":8,"message":"Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI'","file":"\/home\/sprava1co\/domains\/sprava1.com\/public_html\/gala\/wp-content\/themes\/hillter\/functions.php","line":73}
+
+Nov 16 2018 13:57:11
+{"type":8,"message":"Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI'","file":"\/home\/sprava1co\/domains\/sprava1.com\/public_html\/gala\/wp-content\/themes\/hillter\/functions.php","line":73}
+
+Nov 16 2018 13:57:23
+{"type":8,"message":"Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI'","file":"\/home\/sprava1co\/domains\/sprava1.com\/public_html\/gala\/wp-content\/themes\/hillter\/functions.php","line":73}
+
+Nov 16 2018 13:57:36
+{"type":8,"message":"Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI'","file":"\/home\/sprava1co\/domains\/sprava1.com\/public_html\/gala\/wp-content\/themes\/hillter\/functions.php","line":73}
+
+Nov 16 2018 13:57:47
+{"type":8,"message":"Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI'","file":"\/home\/sprava1co\/domains\/sprava1.com\/public_html\/gala\/wp-content\/themes\/hillter\/functions.php","line":73}
+
+Nov 16 2018 13:57:59
+{"type":8,"message":"Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI'","file":"\/home\/sprava1co\/domains\/sprava1.com\/public_html\/gala\/wp-content\/themes\/hillter\/functions.php","line":73}
+
+Nov 16 2018 13:58:10
+{"type":8,"message":"Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI'","file":"\/home\/sprava1co\/domains\/sprava1.com\/public_html\/gala\/wp-content\/themes\/hillter\/functions.php","line":73}
+
+Nov 16 2018 13:58:21
+{"type":8,"message":"Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI'","file":"\/home\/sprava1co\/domains\/sprava1.com\/public_html\/gala\/wp-content\/themes\/hillter\/functions.php","line":73}
+
+Nov 16 2018 13:58:33
+{"type":8,"message":"Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI'","file":"\/home\/sprava1co\/domains\/sprava1.com\/public_html\/gala\/wp-content\/themes\/hillter\/functions.php","line":73}
+
+Nov 16 2018 13:58:45
+{"type":8,"message":"Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI'","file":"\/home\/sprava1co\/domains\/sprava1.com\/public_html\/gala\/wp-content\/themes\/hillter\/functions.php","line":73}
+
+Nov 16 2018 13:58:56
+{"type":8,"message":"Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI'","file":"\/home\/sprava1co\/domains\/sprava1.com\/public_html\/gala\/wp-content\/themes\/hillter\/functions.php","line":73}
+
+Nov 16 2018 13:59:08
+{"type":8,"message":"Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI'","file":"\/home\/sprava1co\/domains\/sprava1.com\/public_html\/gala\/wp-content\/themes\/hillter\/functions.php","line":73}
+
+Nov 16 2018 13:59:19
+{"type":8,"message":"Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI'","file":"\/home\/sprava1co\/domains\/sprava1.com\/public_html\/gala\/wp-content\/themes\/hillter\/functions.php","line":73}
+
+Nov 16 2018 13:59:31
+{"type":8,"message":"Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI'","file":"\/home\/sprava1co\/domains\/sprava1.com\/public_html\/gala\/wp-content\/themes\/hillter\/functions.php","line":73}
+
+Nov 16 2018 13:59:42
+{"type":8,"message":"Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI'","file":"\/home\/sprava1co\/domains\/sprava1.com\/public_html\/gala\/wp-content\/themes\/hillter\/functions.php","line":73}
+
+Nov 16 2018 13:59:45
+{"type":8,"message":"Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI'","file":"\/home\/sprava1co\/domains\/sprava1.com\/public_html\/gala\/wp-content\/themes\/hillter\/functions.php","line":73}
+
+Nov 16 2018 13:59:48
+{"type":8,"message":"Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI'","file":"\/home\/sprava1co\/domains\/sprava1.com\/public_html\/gala\/wp-content\/themes\/hillter\/functions.php","line":73}
+
+Nov 16 2018 13:59:50
+{"type":8,"message":"Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI'","file":"\/home\/sprava1co\/domains\/sprava1.com\/public_html\/gala\/wp-content\/themes\/hillter\/functions.php","line":73}
+
+Nov 16 2018 13:59:51
+{"type":8,"message":"Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI'","file":"\/home\/sprava1co\/domains\/sprava1.com\/public_html\/gala\/wp-content\/themes\/hillter\/functions.php","line":73}
+
+Nov 16 2018 13:59:52
+{"type":8,"message":"Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI'","file":"\/home\/sprava1co\/domains\/sprava1.com\/public_html\/gala\/wp-content\/themes\/hillter\/functions.php","line":73}
+
